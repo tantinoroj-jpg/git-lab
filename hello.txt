@@ -1,2 +1,3 @@
 Hello Git
 want to see git record change
+ok if use git restore any edit will not be saved.
